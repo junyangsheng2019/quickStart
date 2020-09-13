@@ -154,17 +154,15 @@ under the License.
         <dependency>
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-connector-jdbc_2.11</artifactId>
-            <version>1.11.0</version>
+            <version>1.11.1</version>
         </dependency>
-
-        //habse 依赖
-        <dependency>
+		<dependency>
             <groupId>org.apache.hbase</groupId>
             <artifactId>hbase-client</artifactId>
             <version>1.2.6.1</version>
         </dependency>
 
-        <dependency>
+		<dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-common</artifactId>
             <version>2.7.5</version>
